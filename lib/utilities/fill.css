@@ -1,0 +1,49 @@
+/** @define utilities */
+
+.u-fillBluePrimary, .u-fillPrimary {
+  fill: var(--utils-css-c-primary) !important;
+}
+
+.u-fillGreyDarkest {
+  fill: var(--utils-css-c-grey-darkest) !important;
+}
+
+.u-fillGreyDark {
+  fill: var(--utils-css-c-grey-dark) !important;
+}
+
+.u-fillGrey {
+  fill: var(--utils-css-c-grey) !important;
+}
+
+.u-fillGreyLight {
+  fill: var(--utils-css-c-grey-light) !important;
+}
+
+.u-fillGreyLighter {
+  fill: var(--utils-css-c-grey-lighter) !important;
+}
+
+.u-fillGreyLightest {
+  fill: var(--utils-css-c-grey-lightest) !important;
+}
+
+.u-fillSuccess {
+  fill: var(--utils-css-c-status-success) !important;
+}
+
+.u-fillWarning {
+  fill: var(--utils-css-c-status-warning) !important;
+}
+
+.u-fillError {
+  fill: var(--utils-css-c-status-error) !important;
+}
+
+.u-fillTransparent {
+  fill: transparent !important;
+}
+
+.u-fillWhite {
+  fill: white !important;
+}

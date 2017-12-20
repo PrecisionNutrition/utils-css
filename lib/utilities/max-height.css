@@ -1,0 +1,76 @@
+/**
+ * @define utilities
+ * Max height
+ */
+
+.u-maxHeight0 {
+  max-height: 0 !important;
+}
+
+.u-maxHeight1 {
+  max-height: 1rem !important;
+}
+
+.u-maxHeight2 {
+  max-height: 2rem !important;
+}
+
+.u-maxHeight4 {
+  max-height: 4rem !important;
+}
+
+.u-maxHeight6 {
+  max-height: 6rem !important;
+}
+
+.u-maxHeight8 {
+  max-height: 8rem !important;
+}
+
+.u-maxHeight10 {
+  max-height: 10rem !important;
+}
+
+.u-maxHeight12 {
+  max-height: 12rem !important;
+}
+
+.u-maxHeight16 {
+  max-height: 16rem !important;
+}
+
+.u-maxHeight20 {
+  max-height: 20rem !important;
+}
+
+.u-maxHeight24 {
+  max-height: 24rem !important;
+}
+
+.u-maxHeight28 {
+  max-height: 28rem !important;
+}
+
+.u-maxHeight32 {
+  max-height: 32rem !important;
+}
+
+.u-maxHeight48 {
+  max-height: 48rem !important;
+}
+
+.u-maxHeight56 {
+  max-height: 56rem !important;
+}
+
+.u-maxHeight64 {
+  max-height: 64rem !important;
+}
+
+.u-maxHeight80 {
+  max-height: 80rem !important;
+}
+
+.u-maxHeight100P {
+  max-height: 100% !important;
+}

@@ -1,0 +1,29 @@
+/** @define utilities */
+
+.u-iconExtraSmall {
+  width: 0.75rem !important;
+}
+
+.u-iconSmall {
+  width: 1rem !important;
+}
+
+.u-iconMedium {
+  width: 1.25rem !important;
+}
+
+.u-iconLarge  {
+  width: 1.5rem !important;
+}
+
+.u-iconExtraLarge  {
+  width: 1.75rem !important;
+}
+
+.u-iconHumongous  {
+  width: 2rem !important;
+}
+
+.u-iconGigantic  {
+  width: 2.25rem !important;
+}

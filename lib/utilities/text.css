@@ -1,0 +1,127 @@
+/**
+ * @define utilities
+ * Text - Our custom text classes/
+ * You should probably import suitcss-text as well.
+ */
+
+.u-textWeightBold {
+  font-weight: bold !important;
+}
+
+.u-textWeightSemiBold {
+  font-weight: var(--utils-css-text-weight-semi-bold) !important;
+}
+
+.u-textWeightLight {
+  font-weight: var(--utils-css-text-weight-light) !important;
+}
+
+.u-textWeightRegular {
+  font-weight: var(--utils-css-text-weight-regular) !important;
+}
+
+.u-textTransformUppercase {
+  text-transform: uppercase !important;
+}
+
+.u-textDecorationNone {
+  text-decoration: none !important;
+}
+
+.u-textDecorationUnderline {
+  text-decoration: underline !important;
+}
+
+.u-textStyleItalic {
+  font-style: italic !important;
+}
+
+/* line height */
+
+.u-textLineHeightXS {
+  line-height: 0.875 !important;
+}
+
+.u-textLineHeight1 {
+  line-height: 1 !important;
+}
+
+.u-textLineHeightS {
+  line-height: 1.25 !important;
+}
+
+.u-textLineHeightM {
+  line-height: 1.6 !important;
+}
+
+.u-textLineHeightML {
+  line-height: 1.75 !important;
+}
+
+.u-textLineHeightL {
+  line-height: 2 !important;
+}
+
+.u-textLineHeightXL {
+  line-height: 2.5 !important;
+}
+
+.u-textLineHeightXXL {
+  line-height: 3.25 !important;
+}
+
+/* letter spacing */
+
+.u-textLetterSpacing0 {
+  letter-spacing: 0 !important;
+}
+
+.u-textLetterSpacingM {
+  letter-spacing: 0.078125em !important;
+}
+
+.u-textLetterSpacingL {
+  letter-spacing: 0.09375em !important;
+}
+
+.u-textLetterSpacingXL {
+  letter-spacing: 0.125em !important;
+}
+
+/* size */
+
+.u-textSizeXXS {
+  font-size: var(--utils-css-text-size-xxs) !important;
+}
+
+.u-textSizeXS {
+  font-size: var(--utils-css-text-size-xs) !important;
+}
+
+.u-textSizeS {
+  font-size: var(--utils-css-text-size-s) !important;
+}
+
+.u-textSizeM {
+  font-size: var(--utils-css-text-size-m) !important;
+}
+
+.u-textSizeL {
+  font-size: var(--utils-css-text-size-l) !important;
+}
+
+.u-textSizeXL {
+  font-size: var(--utils-css-text-size-xl) !important;
+}
+
+.u-textSizeXXL {
+  font-size: var(--utils-css-text-size-xxl) !important;
+}
+
+.u-textSizeXXXL {
+  font-size: var(--utils-css-text-size-xxxl) !important;
+}
+
+.u-textSizeXXXXL {
+  font-size: var(--utils-css-text-size-xxxxl) !important;
+}

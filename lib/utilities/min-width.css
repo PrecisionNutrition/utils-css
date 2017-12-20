@@ -1,0 +1,76 @@
+/**
+ * @define utilities
+ * Min width
+ */
+
+.u-minWidth0 {
+  min-width: 0 !important;
+}
+
+.u-minWidth1 {
+  min-width: 1rem !important;
+}
+
+.u-minWidth2 {
+  min-width: 2rem !important;
+}
+
+.u-minWidth4 {
+  min-width: 4rem !important;
+}
+
+.u-minWidth6 {
+  min-width: 6rem !important;
+}
+
+.u-minWidth8 {
+  min-width: 8rem !important;
+}
+
+.u-minWidth10 {
+  min-width: 10rem !important;
+}
+
+.u-minWidth12 {
+  min-width: 12rem !important;
+}
+
+.u-minWidth14 {
+  min-width: 14rem !important;
+}
+
+.u-minWidth16 {
+  min-width: 16rem !important;
+}
+
+.u-minWidth18 {
+  min-width: 18rem !important;
+}
+
+.u-minWidth20 {
+  min-width: 20rem !important;
+}
+
+.u-minWidth24 {
+  min-width: 24rem !important;
+}
+
+.u-minWidth32 {
+  min-width: 32rem !important;
+}
+
+.u-minWidth48 {
+  min-width: 48rem !important;
+}
+
+.u-minWidth64 {
+  min-width: 64rem !important;
+}
+
+.u-minWidth80 {
+  min-width: 80rem !important;
+}
+
+.u-minWidth100P {
+  min-width: 100% !important;
+}

@@ -1,0 +1,24 @@
+/**
+ * @define utilities
+ * Vertical align - Works with inline and inline-block elements
+ */
+
+.u-verticalAlignTop {
+  vertical-align: top !important;
+}
+
+.u-verticalAlignBottom {
+  vertical-align: bottom !important;
+}
+
+.u-verticalAlignMiddle {
+  vertical-align: middle !important;
+}
+
+.u-verticalAlignSub {
+  vertical-align: sub !important;
+}
+
+.u-verticalAlignBaseline {
+  vertical-align: baseline !important;
+}

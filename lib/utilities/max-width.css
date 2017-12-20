@@ -1,0 +1,92 @@
+/**
+ * @define utilities
+ * Max width
+ */
+
+.u-maxWidthDefault {
+  max-width: var(--utils-css-max-width-default) !important;
+}
+
+.u-maxWidth0 {
+  max-width: 0 !important;
+}
+
+.u-maxWidth1 {
+  max-width: 1rem !important;
+}
+
+.u-maxWidth2 {
+  max-width: 2rem !important;
+}
+
+.u-maxWidth4 {
+  max-width: 4rem !important;
+}
+
+.u-maxWidth5 {
+  max-width: 5rem !important;
+}
+
+.u-maxWidth6 {
+  max-width: 6rem !important;
+}
+
+.u-maxWidth8 {
+  max-width: 8rem !important;
+}
+
+.u-maxWidth10 {
+  max-width: 10rem !important;
+}
+
+.u-maxWidth12 {
+  max-width: 12rem !important;
+}
+
+.u-maxWidth16 {
+  max-width: 16rem !important;
+}
+
+.u-maxWidth20 {
+  max-width: 20rem !important;
+}
+
+.u-maxWidth24 {
+  max-width: 24rem !important;
+}
+
+.u-maxWidth28 {
+  max-width: 28rem !important;
+}
+
+.u-maxWidth32 {
+  max-width: 32rem !important;
+}
+
+.u-maxWidth36 {
+  max-width: 36rem !important;
+}
+
+.u-maxWidth40 {
+  max-width: 40rem !important;
+}
+
+.u-maxWidth48 {
+  max-width: 48rem !important;
+}
+
+.u-maxWidth56 {
+  max-width: 56rem !important;
+}
+
+.u-maxWidth64 {
+  max-width: 64rem !important;
+}
+
+.u-maxWidth80 {
+  max-width: 80rem !important;
+}
+
+.u-maxWidth100P {
+  max-width: 100% !important;
+}

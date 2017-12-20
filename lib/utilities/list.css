@@ -1,0 +1,5 @@
+/** @define utilities */
+
+.u-listStyleTypeNone {
+  list-style-type: none !important;
+}

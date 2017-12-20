@@ -1,0 +1,122 @@
+/** @define utilities */
+
+.u-border {
+  border-style: solid !important;
+}
+.u-borderTop {
+  border-top-style: solid !important;
+}
+.u-borderRight {
+  border-right-style: solid !important;
+}
+.u-borderBottom {
+  border-bottom-style: solid !important;
+}
+.u-borderLeft {
+  border-left-style: solid !important;
+}
+.u-borderNone {
+  border: none !important;
+
+  &:hover {
+    border: none !important;
+  }
+}
+
+.u-borderDashed {
+  border-style: dashed !important;
+}
+.u-borderDashedTop {
+  border-top-style: dashed !important;
+}
+.u-borderDashedRight {
+  border-right-style: dashed !important;
+}
+.u-borderDashedBottom {
+  border-bottom-style: dashed !important;
+}
+.u-borderDashedLeft {
+  border-left-style: dashed !important;
+}
+
+.u-borderDotted {
+  border-style: dotted !important;
+}
+.u-borderDottedTop {
+  border-top-style: dotted !important;
+}
+.u-borderDottedRight {
+  border-right-style: dotted !important;
+}
+.u-borderDottedBottom {
+  border-bottom-style: dotted !important;
+}
+.u-borderDottedLeft {
+  border-left-style: dotted !important;
+}
+
+.u-borderDark {
+  border-color: rgba(0, 0, 0, 0.3);
+}
+.u-borderLight {
+  border-color: rgba(0, 0, 0, 0.15);
+}
+.u-borderLighter {
+  border-color: rgba(0, 0, 0, 0.065);
+}
+
+.u-borderBluePrimary {
+  border-color: var(--utils-css-c-primary) !important;
+}
+.u-borderGrey {
+  border-color: var(--utils-css-c-grey) !important;
+}
+.u-borderGreyLight {
+  border-color: var(--utils-css-c-grey-light) !important;
+}
+.u-borderGreyLighter {
+  border-color: var(--utils-css-c-grey-lighter) !important;
+}
+.u-borderGreyLightest {
+  border-color: var(--utils-css-c-grey-lightest) !important;
+}
+
+.u-borderWhite {
+  border-color: white !important;
+}
+.u-borderTransparent {
+  border-color: transparent !important;
+}
+
+.u-borderHairline {
+  border-width: var(--utils-css-border-hairline) !important;
+}
+.u-borderThin {
+  border-width: var(--utils-css-border-thin) !important;
+}
+.u-borderThick {
+  border-width: var(--utils-css-border-thick) !important;
+}
+.u-borderThicker {
+  border-width: var(--utils-css-border-thicker) !important;
+}
+.u-borderThickest {
+  border-width: var(--utils-css-border-thickest) !important;
+}
+
+.u-borderRadiusNone {
+  border-radius: 0 !important;
+}
+.u-borderRadiusS {
+  border-radius: var(--utils-css-border-radius-small) !important;
+}
+.u-borderRadiusM {
+  border-radius: var(--utils-css-border-radius-medium) !important;
+}
+.u-borderRadiusL {
+  border-radius: var(--utils-css-border-radius-large) !important;
+}
+.u-borderRadiusFull {
+  border-radius: 50% !important;
+}
+
