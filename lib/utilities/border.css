@@ -1,21 +1,24 @@
 /** @define utilities */
 
-.u-border {
+.u-borderSolid {
   border-style: solid !important;
 }
-.u-borderTop {
+.u-borderSolidTop {
   border-top-style: solid !important;
 }
-.u-borderRight {
+.u-borderSolidRight {
   border-right-style: solid !important;
 }
-.u-borderBottom {
+.u-borderSolidBottom {
   border-bottom-style: solid !important;
 }
-.u-borderLeft {
+.u-borderSolidLeft {
   border-left-style: solid !important;
 }
 .u-borderNone {
+  border: none !important;
+}
+.u-borderNoneNoHover {
   border: none !important;
 
   &:hover {
@@ -119,4 +122,3 @@
 .u-borderRadiusFull {
   border-radius: 50% !important;
 }
-

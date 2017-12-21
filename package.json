@@ -1,6 +1,6 @@
 {
   "name": "@precision-nutrition/utils-css",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CSS Utility Classes",
   "main": "index.js",
   "scripts": {

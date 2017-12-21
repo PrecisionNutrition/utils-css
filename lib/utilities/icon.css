@@ -1,29 +1,29 @@
 /** @define utilities */
 
 .u-iconExtraSmall {
-  width: 0.75rem !important;
+  width: var(--utils-css-icon-size-extra-small) !important;
 }
 
 .u-iconSmall {
-  width: 1rem !important;
+  width: var(--utils-css-icon-size-small) !important;
 }
 
 .u-iconMedium {
-  width: 1.25rem !important;
+  width: var(--utils-css-icon-size-medium) !important;
 }
 
 .u-iconLarge  {
-  width: 1.5rem !important;
+  width: var(--utils-css-icon-size-large) !important;
 }
 
 .u-iconExtraLarge  {
-  width: 1.75rem !important;
+  width: var(--utils-css-icon-size-extra-large) !important;
 }
 
 .u-iconHumongous  {
-  width: 2rem !important;
+  width: var(--utils-css-icon-size-humongous) !important;
 }
 
 .u-iconGigantic  {
-  width: 2.25rem !important;
+  width: var(--utils-css-icon-size-gigantic) !important;
 }

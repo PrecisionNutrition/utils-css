@@ -1,6 +1,6 @@
 /** @define utilities */
 
-.u-fillBluePrimary, .u-fillPrimary {
+.u-fillPrimary {
   fill: var(--utils-css-c-primary) !important;
 }
 
