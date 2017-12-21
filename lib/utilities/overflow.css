@@ -1,0 +1,21 @@
+/** @define utilities */
+
+.u-overflowXAuto {
+  overflow-x: auto !important;
+}
+
+.u-overflowYAuto {
+  overflow-y: auto !important;
+}
+
+.u-overflowYHidden {
+  overflow-y: hidden !important;
+}
+
+.u-overflowAuto {
+  overflow: auto !important;
+}
+
+.u-overflowHidden {
+  overflow: hidden !important;
+}

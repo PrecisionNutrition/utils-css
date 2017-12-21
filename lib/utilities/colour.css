@@ -1,0 +1,45 @@
+/** @define utilities */
+
+.u-colourPrimary {
+  color: var(--utils-css-c-primary) !important;
+}
+
+.u-colourGreyDarkest {
+  color: var(--utils-css-c-grey-darkest) !important;
+}
+
+.u-colourGreyDark {
+  color: var(--utils-css-c-grey-dark) !important;
+}
+
+.u-colourGrey {
+  color: var(--utils-css-c-grey) !important;
+}
+
+.u-colourGreyLight {
+  color: var(--utils-css-c-grey-light) !important;
+}
+
+.u-colourGreyLighter {
+  color: var(--utils-css-c-grey-lighter) !important;
+}
+
+.u-colourGreyLightest {
+  color: var(--utils-css-c-grey-lightest) !important;
+}
+
+.u-colourWhite {
+  color: white !important;
+}
+
+.u-colourSuccess {
+  color: var(--utils-css-c-status-success) !important;
+}
+
+.u-colourWarning {
+  color: var(--utils-css-c-status-warning) !important;
+}
+
+.u-colourError {
+  color: var(--utils-css-c-status-error) !important;
+}

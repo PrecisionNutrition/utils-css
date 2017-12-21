@@ -1,0 +1,13 @@
+/** @define utilities */
+
+.u-cursorPointer {
+  cursor: pointer !important;
+}
+
+.u-cursorCopy {
+  cursor: copy !important;
+}
+
+.u-cursorWait {
+  cursor: wait !important;
+}

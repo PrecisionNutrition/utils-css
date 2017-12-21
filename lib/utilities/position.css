@@ -1,0 +1,41 @@
+/** @define utilities */
+
+.u-positionAbsolute {
+  position: absolute !important;
+}
+
+.u-positionFixed {
+  backface-visibility: hidden !important;
+  position: fixed !important;
+}
+
+.u-positionRelative {
+  position: relative !important;
+}
+
+.u-positionStatic {
+  position: static !important;
+}
+
+.u-positionTop0 {
+  top: 0 !important;
+}
+
+.u-positionBottom0 {
+  bottom: 0 !important;
+}
+
+.u-positionLeft0 {
+  left: 0 !important;
+}
+
+.u-positionRight0 {
+  right: 0 !important;
+}
+
+.u-positionAll0 {
+  top: 0 !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+}

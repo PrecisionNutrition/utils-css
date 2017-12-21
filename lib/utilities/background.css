@@ -1,0 +1,77 @@
+/** @define utilities */
+
+.u-backgroundPrimary {
+  background-color: var(--utils-css-c-primary) !important;
+}
+
+.u-backgroundGreyDarkest {
+  background-color: var(--utils-css-c-grey-darkest) !important;
+}
+
+.u-backgroundGreyDark {
+  background-color: var(--utils-css-c-grey-dark) !important;
+}
+
+.u-backgroundGrey {
+  background-color: var(--utils-css-c-grey) !important;
+}
+
+.u-backgroundGreyLight {
+  background-color: var(--utils-css-c-grey-light) !important;
+}
+
+.u-backgroundGreyLighter {
+  background-color: var(--utils-css-c-grey-lighter) !important;
+}
+
+.u-backgroundGreyLightest {
+  background-color: var(--utils-css-c-grey-lightest) !important;
+}
+
+.u-backgroundTransparent {
+  background: transparent !important;
+}
+
+.u-backgroundWhite {
+  background: white !important;
+}
+
+.u-backgroundWhiteTranslucent {
+  background: rgba(255,255,255,0.75) !important;
+}
+
+.u-backgroundSuccess {
+  background-color: var(--utils-css-c-status-success) !important;
+}
+
+.u-backgroundWarning {
+  background-color: var(--utils-css-c-status-warning) !important;
+}
+
+.u-backgroundError {
+  background-color: var(--utils-css-c-status-error) !important;
+}
+
+.u-backgroundNoRepeat {
+  background-repeat: no-repeat !important;
+}
+
+.u-backgroundSizeCover {
+  background-size: cover !important;
+}
+
+.u-backgroundSizeContain {
+  background-size: contain !important;
+}
+
+.u-backgroundPositionCenter {
+  background-position: center center !important;
+}
+
+.u-backgroundPositionRight {
+  background-position: right center !important;
+}
+
+.u-backgroundPositionLeft {
+  background-position: left center !important;
+}
