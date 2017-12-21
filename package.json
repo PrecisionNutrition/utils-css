@@ -1,6 +1,6 @@
 {
   "name": "@precision-nutrition/utils-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS Utility Classes",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,5 @@
     "index.js",
     "lib"
   ],
-  "private": false
+  "private": true
 }
