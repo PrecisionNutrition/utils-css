@@ -24,12 +24,20 @@
   text-transform: uppercase !important;
 }
 
-.u-textDecorationNone {
-  text-decoration: none !important;
+.u-textTransformNone {
+  text-transform: none !important;
+}
+
+.u-textDecorationLineThrough {
+  text-decoration: line-through;
 }
 
 .u-textDecorationUnderline {
   text-decoration: underline !important;
+}
+
+.u-textDecorationNone {
+  text-decoration: none !important;
 }
 
 .u-textStyleItalic {
@@ -38,36 +46,36 @@
 
 /* line height */
 
-.u-textLineHeightXS {
-  line-height: 0.875 !important;
-}
-
 .u-textLineHeight1 {
   line-height: 1 !important;
 }
 
+.u-textLineHeightXS {
+  line-height: var(--text-line-height-xs) !important;
+}
+
 .u-textLineHeightS {
-  line-height: 1.25 !important;
+  line-height: var(--text-line-height-s) !important;
 }
 
 .u-textLineHeightM {
-  line-height: 1.6 !important;
-}
-
-.u-textLineHeightML {
-  line-height: 1.75 !important;
+  line-height: var(--text-line-height-m) !important;
 }
 
 .u-textLineHeightL {
-  line-height: 2 !important;
+  line-height: var(--text-line-height-l) !important;
 }
 
 .u-textLineHeightXL {
-  line-height: 2.5 !important;
+  line-height: var(--text-line-height-xl) !important;
 }
 
 .u-textLineHeightXXL {
-  line-height: 3.25 !important;
+  line-height: var(--text-line-height-xxl) !important;
+}
+
+.u-textLineHeightXXXL {
+  line-height: var(--text-line-height-xxxl) !important;
 }
 
 /* letter spacing */
@@ -77,15 +85,15 @@
 }
 
 .u-textLetterSpacingM {
-  letter-spacing: 0.078125em !important;
+  letter-spacing: var(--utils-css-text-letter-spacing-m) !important;
 }
 
 .u-textLetterSpacingL {
-  letter-spacing: 0.09375em !important;
+  letter-spacing: var(--utils-css-text-letter-spacing-l) !important;
 }
 
 .u-textLetterSpacingXL {
-  letter-spacing: 0.125em !important;
+  letter-spacing: var(--utils-css-text-letter-spacing-xl) !important;
 }
 
 /* size */

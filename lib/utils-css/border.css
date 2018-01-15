@@ -68,7 +68,7 @@
   border-color: rgba(0, 0, 0, 0.065);
 }
 
-.u-borderBluePrimary {
+.u-borderPrimary {
   border-color: var(--utils-css-c-primary) !important;
 }
 .u-borderGrey {
