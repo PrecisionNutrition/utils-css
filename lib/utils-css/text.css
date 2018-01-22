@@ -1,8 +1,19 @@
 /**
  * @define utilities
  * Text - Our custom text classes/
- * You should probably import suitcss-text as well.
  */
+
+.u-textAlignCenter {
+  text-align: center !important;
+}
+
+.u-textAlignLeft {
+  text-align: left !important;
+}
+
+.u-textAlignRight {
+  text-align: right !important;
+}
 
 .u-textWeightBold {
   font-weight: bold !important;
@@ -44,8 +55,6 @@
   font-style: italic !important;
 }
 
-/* line height */
-
 .u-textLineHeight1 {
   line-height: 1 !important;
 }
@@ -78,8 +87,6 @@
   line-height: var(--text-line-height-xxxl) !important;
 }
 
-/* letter spacing */
-
 .u-textLetterSpacing0 {
   letter-spacing: 0 !important;
 }
@@ -95,8 +102,6 @@
 .u-textLetterSpacingXL {
   letter-spacing: var(--utils-css-text-letter-spacing-xl) !important;
 }
-
-/* size */
 
 .u-textSizeXXS {
   font-size: var(--utils-css-text-size-xxs) !important;
@@ -132,4 +137,16 @@
 
 .u-textSizeXXXXL {
   font-size: var(--utils-css-text-size-xxxxl) !important;
+}
+
+.u-textTruncate {
+  max-width: 100%; /* 1 */
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  word-wrap: normal !important; /* 2 */
+}
+
+.u-textWhiteSpaceNoWrap {
+  white-space: nowrap !important;
 }
