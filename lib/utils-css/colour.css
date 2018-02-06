@@ -28,6 +28,10 @@
   color: var(--utils-css-c-grey-lightest) !important;
 }
 
+.u-colourBlack {
+  color: black !important;
+}
+
 .u-colourWhite {
   color: white !important;
 }
