@@ -19,3 +19,7 @@
 .u-overflowHidden {
   overflow: hidden !important;
 }
+
+.u-overflowWrapBreakWord {
+  overflow-wrap: break-word !important;
+}
