@@ -1,5 +1,9 @@
 /** @define utilities */
 
+.u-pointerEventsAll {
+  pointer-events: all !important;
+}
+
 .u-pointerEventsNone {
   pointer-events: none !important;
 }
